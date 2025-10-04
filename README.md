@@ -45,6 +45,6 @@ TempoX introduces three core innovations:
 ---
 
 🌐 **Follow**: [@Tempox_io](https://twitter.com/Tempox_io)  
-📧 **Contact**: Tempox.io [at] proton.me *(opsional)*
+📧 **Contact**: awthentice@gmail.com *(opsional)*
 
 > *Building intelligent perpetuals — one moment at a time.*
